@@ -1,0 +1,43 @@
+{
+  "course": "Best Medical Community (BMC) - Ai in Medicine",
+  "units": [
+    { "id": "A", "title": "الوحدة الأولى - الذكاء الاصطناعي في الطب", "path": "A. الذكاء الاصطناعي في الطب pdf", "audio": "assets/media/A.mp3", "pdf": "assets/media/A.pdf" },
+    { "id": "B", "title": "Introduction", "path": "B. Introduction", "audio": "assets/media/B.mp3", "pdf": "assets/media/B.pdf" },
+    { "id": "C", "title": "Future of Technology", "path": "C. Future of Technology", "audio": "assets/media/C.mp3", "pdf": "assets/media/C.pdf" },
+    { "id": "D", "title": "تاريخ وتطور", "path": "D. تاريخ وتطور", "audio": "assets/media/D.mp3", "pdf": "assets/media/D.pdf" },
+    { "id": "E", "title": "التشخيص والعلاج وإدارة البيانات", "path": "E. التشخيص والعلاج وإدارة البيانات", "audio": "assets/media/E.mp3", "pdf": "assets/media/E.pdf" },
+    { "id": "F", "title": "سيناريوهات", "path": "F. سيناريوهات", "audio": "assets/media/F.mp3", "pdf": "assets/media/F.pdf" },
+    { "id": "G", "title": "هندسة الأوامر (Prompt Engineering)", "path": "G. هندسة الأوامر (Prompt Engineering)", "audio": "assets/media/G.mp3", "pdf": "assets/media/G.pdf" },
+
+    { "id": "H", "title": "تحليل نماذج التعلم الآلي", "path": "H. تحليل نماذج التعلم الآلي", "audio": "assets/media/H.mp3", "pdf": "assets/media/H.pdf" },
+    { "id": "I1", "title": "ثورة في التنبؤ بالأمراض - جزء 1", "path": "I. ثورة في التنبؤ بالأمراض (1)", "audio": "assets/media/I1.mp3", "pdf": "assets/media/I.pdf" },
+    { "id": "I2", "title": "ثورة في التنبؤ بالأمراض - جزء 2", "path": "I. ثورة في التنبؤ بالأمراض (2)", "audio": "assets/media/I2.mp3", "pdf": "assets/media/I.pdf" },
+
+    { "id": "J1", "title": "التعلم الآلي - جزء 1", "path": "J. التعلم الآلي (1)", "audio": "assets/media/J1.mp3", "pdf": "assets/media/J.pdf" },
+    { "id": "J2", "title": "التعلم الآلي - جزء 2", "path": "J. التعلم الآلي (2)", "audio": "assets/media/J2.mp3", "pdf": "assets/media/J.pdf" },
+    { "id": "J3", "title": "التعلم الآلي - جزء 3", "path": "J. التعلم الآلي (3)", "audio": "assets/media/J3.mp3", "pdf": "assets/media/J.pdf" },
+
+    { "id": "K1", "title": "معالجة البيانات الطبية - جزء 1", "path": "K. معالجة البيانات الطبية (1)", "audio": "assets/media/K1.mp3", "pdf": "assets/media/K.pdf" },
+    { "id": "K2", "title": "معالجة البيانات الطبية - جزء 2", "path": "K. معالجة البيانات الطبية (2)", "audio": "assets/media/K2.mp3", "pdf": "assets/media/K.pdf" },
+
+    { "id": "L", "title": "تحليل البيانات الطبية", "path": "L. تحليل البيانات الطبية", "audio": "assets/media/L.mp3", "pdf": "assets/media/L.pdf" },
+
+    { "id": "M", "title": "رؤية الكمبيوتر", "path": "M. رؤية الكمبيوتر", "audio": "assets/media/M.mp3", "pdf": "assets/media/M.pdf" },
+
+    { "id": "N1", "title": "التدريبات العملية - جزء 1", "path": "N. التدريبات العملية (1)", "audio": "assets/media/N1.mp3", "pdf": "assets/media/N.pdf" },
+    { "id": "N2", "title": "التدريبات العملية - جزء 2", "path": "N. التدريبات العملية (2)", "audio": "assets/media/N2.mp3", "pdf": "assets/media/N.pdf" },
+    { "id": "N3", "title": "التدريبات العملية - جزء 3", "path": "N. التدريبات العملية (3)", "audio": "assets/media/N3.mp3", "pdf": "assets/media/N.pdf" },
+
+    { "id": "O", "title": "معالجة اللغة الطبيعية", "path": "O. معالجة اللغة الطبيعية", "audio": "assets/media/O.mp3", "pdf": "assets/media/O.pdf" },
+
+    { "id": "P", "title": "التدريبات", "path": "P. التدريبات", "audio": "assets/media/P.mp3", "pdf": "assets/media/P.pdf" },
+
+    { "id": "Q", "title": "التطبيقات السريرية", "path": "Q. التطبيقات السريرية", "audio": "assets/media/Q.mp3", "pdf": "assets/media/Q.pdf" },
+
+    { "id": "R", "title": "Training Patient Case", "path": "R. Training Patient Case", "audio": "assets/media/R.mp3", "pdf": "assets/media/R.pdf" },
+
+    { "id": "S", "title": "الإدارة الطبية والتحديات الأخلاقية", "path": "S. الإدارة الطبية والتحديات الأخلاقية", "audio": "assets/media/S.mp3", "pdf": "assets/media/S.pdf" },
+
+    { "id": "T", "title": "التدريبات - ختامي", "path": "T. التدريبات", "audio": "assets/media/T.mp3", "pdf": "assets/media/T.pdf" }
+  ]
+}
