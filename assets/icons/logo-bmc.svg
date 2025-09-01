@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BMC Logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d6efd"/>
+      <stop offset="100%" stop-color="#20c997"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="32" fill="url(#g)"/>
+  <g fill="#fff">
+    <path d="M68 156h36c16 0 28-12 28-28s-12-28-28-28H68v56zm20-40h16c6 0 12 6 12 12s-6 12-12 12H88v-24z"/>
+    <path d="M132 156h56v-16h-36v-8h28v-16h-28v-8h36v-16h-56v64z"/>
+    <circle cx="204" cy="196" r="12" fill="#fff"/>
+    <rect x="48" y="188" width="156" height="8" rx="4" fill="#fff" opacity=".6"/>
+  </g>
+</svg>
