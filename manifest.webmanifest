@@ -1,0 +1,24 @@
+{
+  "name": "Best Medical Community (BMC)",
+  "short_name": "BMC",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f9fc",
+  "theme_color": "#0d6efd",
+  "description": "منصة كورس الذكاء الاصطناعي في الطب مع تتبّع التقدم ودمج MP3 + PDF.",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
